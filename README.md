@@ -1,3 +1,5 @@
+[![Abrir no Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Fernandow14/analise-dados-spotify-python/blob/main/notebooks/analise_spotify_2019.ipynb)
+
 📊 Análise de Dados com Python — Spotify Top 50 2019
 
 Projeto acadêmico desenvolvido com foco na aprendizagem e prática de Análise de Dados com Python, utilizando um conjunto de dados do Spotify Top 50 de 2019.
