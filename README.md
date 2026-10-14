@@ -85,9 +85,7 @@ Os resultados apresentados foram obtidos a partir da base utilizada no notebook 
 ## 👤 Autor
 
 **Fernando Dias**
-
-GitHub: [Fernandow14](https://github.com/Fernandow14)
   
 LinkedIn: [Fernando Dias](https://www.linkedin.com/in/fernandodias-viana/)
   
-⭐ Se este projeto foi útil ou interessante, fique à vontade para explorar o notebook e o repositório.
+Data Analytics | Business Intelligence | Power BI | Python | SQL | Databricks
