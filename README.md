@@ -87,5 +87,3 @@ Os resultados apresentados foram obtidos a partir da base utilizada no notebook 
 **Fernando Dias**
   
 LinkedIn: [Fernando Dias](https://www.linkedin.com/in/fernandodias-viana/)
-  
-Data Analytics | Business Intelligence | Power BI | Python | SQL | Databricks
